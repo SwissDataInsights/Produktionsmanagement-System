@@ -138,4 +138,4 @@ Dieses System automatisiert den Import, die Verwaltung und die Analyse von Produ
 | **database_update.py**  | Systematische Aktualisierung bestehender Daten                |
 | **„teile to order.py“** | Produktionssimulation, Engpass-Erkennung & Reporting           |
 
-Dieses modulare System gewährleistet eine effiziente, automatisierte Datenverwaltung und Produktionsplanung – mit zahlreichen Optionen für zukünftige Erweiterungen. Bei Fragen oder weiterem Bedarf stehe ich gerne zur Verfügung!
+Dieses modulare System gewährleistet eine effiziente, automatisierte Datenverwaltung und Produktionsplanung – mit zahlreichen Optionen für zukünftige Erweiterungen. 
