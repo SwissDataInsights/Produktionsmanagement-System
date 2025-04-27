@@ -1,0 +1,4 @@
+pandas>=1.4
+SQLAlchemy>=1.4
+matplotlib>=3.5
+openpyxl>=3.0
